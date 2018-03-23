@@ -1,0 +1,23 @@
+{{ $file := .Get 0 }}
+{{ $csv := string $file }}
+<div class="responsive-table">
+  <table>
+      {{ range $i, $r := getCSV "," $csv }}
+        {{ if eq $i 0 }}
+          <thead>
+            <tr>
+              <th>{{ index $r 0 }}</th>
+              <th>{{ index $r 1 }}</th>
+            </tr>
+          </thead>
+    <tbody>
+        {{ else }}
+            <tr>
+              <td>{{ index $r 0 }}</td>
+              <td>{{ index $r 1 }}</td>
+            </tr>
+        {{ end }}
+      {{ end }}
+    </tbody>
+  </table>
+</div>

@@ -18,6 +18,7 @@
     {{ end }}
 
     <link href='{{ "dist/main.css" | absURL }}' rel='stylesheet' type="text/css" />
+    <link rel="stylesheet" href="{{ "files/custom.css" | absURL }}">
     {{ block "favicon" . }}
       {{ partial "site-favicon.html" . }}
     {{ end }}

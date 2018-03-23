@@ -17,6 +17,12 @@ enableRobotsTXT = true
   url = "/page/bio/"
 
 [[menu.main]]
+  name = "Private Events"
+  weight = -105
+  identifier = "private-events"
+  url = "/page/private-events/"
+
+[[menu.main]]
   name = "Original Music"
   weight = -100
   identifier = "original-music"
