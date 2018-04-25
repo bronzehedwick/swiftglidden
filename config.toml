@@ -28,6 +28,12 @@ enableRobotsTXT = true
   identifier = "original-music"
   url = "https://swiftglidden.bandcamp.com/"
 
+[[menu.main]]
+  name = "Contact"
+  weight = -90
+  identifier = "contact"
+  url = "/page/contact/"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
