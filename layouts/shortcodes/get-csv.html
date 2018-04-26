@@ -1,7 +1,7 @@
 {{ $file := .Get 0 }}
 {{ $csv := string $file }}
 <div class="responsive-table">
-  <table>
+  <table id="private-events">
       {{ range $i, $r := getCSV "," $csv }}
         {{ if eq $i 0 }}
           <thead>
