@@ -79,9 +79,27 @@ running:
 
     make stop
 
+## Adding a new blog post
+To create a skeleton for a new blog post, run the following from your
+swiftglidden directory in a terminal:
+
+    hugo new post/my-sweet-blog-post-title.md
+
+It will create a new file with all the appropriate meta data included. It will
+show you the path to that file. Edit it by running the following, or opening it
+in your finder:
+
+    open path/to/file.md
+
+Write your sweet post. You might need to change `draft` at the top of the file
+to make sure it's published.
+
+When you're satisfied, walk through the making updates section above.
+
 ## Learning resources
 - [Interactive git tutorial](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/hello-git)
 - [Git concepts documentation](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 - [HTML tutorial](https://www.codecademy.com/courses/learn-html-elements/lessons/intro-to-html/exercises/intro?course_redirect=learn-html)
 - [Hugo documentation](https://gohugo.io)
 - [Simple progamming editor](https://macromates.com/)
+- [Theme documentation](https://github.com/budparr/gohugo-theme-ananke)
