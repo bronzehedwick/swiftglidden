@@ -4,7 +4,7 @@ date: 2018-04-25T19:12:28-04:00
 draft: false
 ---
 
-<form method="POST" action="http://formspree.io/swiftglidden@gmail.com">
+<form method="POST" action="https://formspree.io/swiftglidden@gmail.com">
   <label for="email">Email</label>
   <input name="email" placeholder="me@example.com" type="email" required>
   <label for="message">Message</label>
