@@ -1,5 +1,5 @@
 (function swiftglidden() {
   'use strict';
 
-  new Tablesort(document.getElementById('private-events'));
+  Tablesort(document.getElementById('private-events'));
 })();
