@@ -1,0 +1,31 @@
+th[role=columnheader]:not(.no-sort) {
+  cursor: pointer;
+}
+
+th[role=columnheader]:not(.no-sort):after {
+  content: '▲';
+  font-size: 0.6em;
+  margin-left: 0.5em;
+  position: relative;
+  top: -0.25em;
+  visibility: hidden;
+  opacity: 0;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+th[aria-sort=ascending]:not(.no-sort):after {
+  content: '▼';
+}
+
+th[aria-sort]:not(.no-sort):after {
+  visibility: visible;
+  opacity: 0.4;
+}
+
+th[role=columnheader]:not(.no-sort):hover:after {
+  visibility: visible;
+  opacity: 1;
+}
