@@ -9,7 +9,7 @@ While studying at Fordham University, Grant served as the Music Director of 2-ti
 
 With his longtime songwriting partner Andy McCarthy, Grant wrote, performed and engineered mac/glidden's debut psychedelic-folk-rock album, *Fall Into The Dark*, released in 2017, and currently in publishing contract negotiations for film and television licensing. Their music video for the song “Mountains,” directed and animated by Laurie Berenhaus, was featured at Sidewalk Film Festival and Indie Memphis Fest, among others. The Huffington Post called their previous musical duo project The Candy Apples, one of "5 Must-See Indie Summer Concerts in NYC" in 2014.
 
-Grant plays regularly in a variety of formats in both private and public venues throughout the Northeast. He has earned a great reputation as a cover song performer in wedding bands, small duos and trios, and most frequently as a soloist at weddings, galas, corporate events and parties. His clients have included Audi North America, The New York Yacht Club, and Magic Hat Brewing Company. You can find more information about his private events availability and extensive cover song repertoire on the "Private Events" page.
+Grant plays regularly in a variety of formats in both private and public venues throughout the United States. He has earned a great reputation as a cover song performer. His clients have included Audi North America, The New York Yacht Club, and Magic Hat Brewing Company. You can find more information about his availability and extensive cover song repertoire on the "Private Events" page.
 
 Grant is currently working on an upcoming album of original psych-folk-rock material to be released in 2019, as well as writing and recording the soundtrack for an upcoming video game for iOS and Android.
 
