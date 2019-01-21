@@ -11,6 +11,12 @@ googleAnalytics = ""
 enableRobotsTXT = true
 
 [[menu.main]]
+  name = "Shows"
+  weight = -115
+  identifier = "shows"
+  url = "/post/events-week-of-Jan-25-2019/"
+
+[[menu.main]]
   name = "Bio"
   weight = -110
   identifier = "bio"
