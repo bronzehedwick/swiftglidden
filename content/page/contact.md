@@ -9,8 +9,8 @@ draft: false
   <input name="email" placeholder="me@example.com" type="email" required>
   <label for="message">Message</label>
   <textarea name="message" placeholder="Describe your event or request." required></textarea>
-  <label for="name">Name (optional)</label>
-  <input type="text" name="name" placeholder="Jane Doe">
+  <label for="name">Name</label>
+  <input type="text" name="name" placeholder="Jane Doe" required>
   <label for="phone">Phone (optional)</label>
   <input type="tel" name="phone" placeholder="(555) 555-555">
   <button type="submit">Send</button>
