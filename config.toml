@@ -14,7 +14,7 @@ enableRobotsTXT = true
   name = "Shows"
   weight = -115
   identifier = "shows"
-  url = "/post/events-week-of-Jan-25-2019/"
+  url = "/show"
 
 [[menu.main]]
   name = "Bio"
@@ -56,3 +56,4 @@ enableRobotsTXT = true
   linkedin = ""
   background_color_class = "bg-black"
   featured_image = "/images/swifthome.jpg"
+  mainSections = ["post","show"]
