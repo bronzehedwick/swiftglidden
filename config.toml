@@ -48,9 +48,9 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   description = "The last musician you'll ever need. Maybe."
-  facebook = "https://www.facebook.com/swiftglidden/"
-  twitter = "https://twitter.com/SwiftGlidden"
-  instagram = "https://www.instagram.com/swiftglidden/"
+  facebook = "https://www.facebook.com/grantswiftmusic/"
+  twitter = "https://twitter.com/grantswiftmusic"
+  instagram = "https://www.instagram.com/grantswiftmusic/"
   youtube = "https://www.youtube.com/channel/UC6b_wOzvz8F-n7eIZp_EQxQ"
   github = ""
   linkedin = ""
