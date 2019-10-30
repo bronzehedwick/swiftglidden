@@ -35,9 +35,9 @@ enableRobotsTXT = true
   url = "/page/private-events/"
 
 [[menu.main]]
-  name = "Original Music"
+  name = "Compositions"
   weight = -95
-  identifier = "original-music"
+  identifier = "compositions"
   url = "https://swiftglidden.bandcamp.com/"
 
 [[menu.main]]

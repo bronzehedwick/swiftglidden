@@ -5,7 +5,7 @@ draft: false
 ---
 <h4>
   <center>
-Be in touch for live performances, original compositions, collaborative projects, or just to say, "Hi!"
+Be in touch for live performances, original compositions, collaborations, or just to say, "Hi!"
   </center>
 </h4>
 
