@@ -2,6 +2,7 @@
 title: "New Cover Song Videos Available"
 date: 2019-10-29T00:20:45-08:00
 draft: false
+type: post
 ---
 
 Just released some new videos on YouTube of some favorite covers of late.
