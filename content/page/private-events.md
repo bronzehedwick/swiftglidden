@@ -11,13 +11,11 @@ He is available in a variety of formats, including wedding bands, small duos and
 For booking, please drop him a request through the "Contact" page, or visit his GigSalad profile [here](https://www.gigsalad.com/swift_glidden_brooklyn).
 
 {{< youtube ALIBKHWLTpI >}}
-
-
-
+---
 {{< youtube diSaV3K3bkA >}}
-
+---
 {{< youtube u4hnKjOwDMc >}}
-
+---
 {{< youtube uaT1_09p1iU >}}
-
+---
 {{< get-csv "/static/files/cover-song-list.csv" >}}
