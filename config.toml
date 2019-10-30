@@ -16,21 +16,27 @@ enableRobotsTXT = true
   identifier = "shows"
   url = "/show"
 
+  [[menu.main]]
+    name = "Posts"
+    weight = -110
+    identifier = "posts"
+    url = "/post"
+
 [[menu.main]]
   name = "Bio"
-  weight = -110
+  weight = -105
   identifier = "bio"
   url = "/page/bio/"
 
 [[menu.main]]
   name = "Private Events"
-  weight = -105
+  weight = -100
   identifier = "private-events"
   url = "/page/private-events/"
 
 [[menu.main]]
   name = "Original Music"
-  weight = -100
+  weight = -95
   identifier = "original-music"
   url = "https://swiftglidden.bandcamp.com/"
 
