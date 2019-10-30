@@ -3,6 +3,11 @@ title: "Contact"
 date: 2018-04-25T19:12:28-04:00
 draft: false
 ---
+<h4>
+  <center>
+Be in touch for live performances, original compositions, collaborative projects, or just to say, "Hi!"
+  </center>
+</h4>
 
 <form method="POST" action="https://formspree.io/swiftglidden@gmail.com">
   <label for="email">Email</label>

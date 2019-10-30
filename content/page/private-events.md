@@ -17,5 +17,7 @@ For booking, please drop him a request through the "Contact" page, or visit his 
 {{< youtube u4hnKjOwDMc >}}
 ---
 {{< youtube uaT1_09p1iU >}}
----
+
+<h4>The following song list is sortable by clicking <i>"Title"</i> or <i>"Artist"</i></h4>
+
 {{< get-csv "/static/files/cover-song-list.csv" >}}
