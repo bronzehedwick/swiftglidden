@@ -6,7 +6,7 @@ draft: false
 
 Just released some new videos on YouTube of some favorite covers of late.
 
-![Check them out here](https://www.youtube.com/channel/UC6b_wOzvz8F-n7eIZp_EQxQ "Grant Swift YouTube Channel")
+[Check them out here](https://www.youtube.com/channel/UC6b_wOzvz8F-n7eIZp_EQxQ "Grant Swift YouTube Channel")
 
 Would love to hear from you in the comments.
 
