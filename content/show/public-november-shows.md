@@ -4,15 +4,11 @@ date: 2019-10-29T00:21:51-22:00
 draft: false
 ---
 
-*<h3>\*Updated\*</h3>*
-
-<!---
   <i>
     <h3>
       \*Updated\*
     </h3>
   <i>
---->
 
 Two very cool shows to check out in November
 
