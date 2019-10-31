@@ -63,3 +63,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/swifthome.jpg"
   mainSections = ["post","show"]
+  body_classes = "avenir bg-near-white"
