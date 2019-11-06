@@ -3,7 +3,7 @@ title: "Bio"
 date: 2017-12-09T20:11:00-05:00
 draft: false
 ---
-NYC native Grant Swift Glidden is a composer, multi-instrumentalist, and the acclaimed vocalist and guitarist of the acoustic duo [mac/glidden](https://macgliddenmusic.bandcamp.com). His music is uncanny but warm, inspired by an eclectic mix of 60's pop and R&B, jazz standards, 90's alternative, and the choral, baroque and classical music he was trained in as a boy. Impose Magazine said it "brilliantly recreates a modern mashup sound."
+NYC native Grant Swift Glidden is a composer, producer, and the acclaimed vocalist and guitarist of the acoustic duo [mac/glidden](https://macgliddenmusic.bandcamp.com). His music is uncanny but warm, inspired by an eclectic mix of 60's pop and R&B, jazz standards, 90's alternative, and the choral, baroque and classical music he was trained in as a boy. Impose Magazine said it "brilliantly recreates a modern mashup sound."
 
 While studying at Fordham University, Grant served as the Music Director of 2-time ICCA Semi-Finalists, The Fordham Ramblers, Fordham University’s original all-male acapella group. As he earned his BA in Music Composition, Grant led the group to their first Quarter Finals placement, with his characteristically intricate vocal arrangements.
 
