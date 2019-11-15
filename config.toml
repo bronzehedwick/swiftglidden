@@ -38,7 +38,7 @@ enableRobotsTXT = true
   name = "Compositions"
   weight = -95
   identifier = "compositions"
-  url = "https://swiftglidden.bandcamp.com/"
+  url = "https://grantswift.bandcamp.com/"
 
 [[menu.main]]
   name = "Contact"
