@@ -41,8 +41,14 @@ enableRobotsTXT = true
   url = "https://youtu.be/5Ldz-YngrKo"
 
 [[menu.main]]
-  name = "Contact"
+  name = "Sign Up"
   weight = -90
+  identifier = "sign-up"
+  url = "/page/sign-up/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = -85
   identifier = "contact"
   url = "/page/contact/"
 
