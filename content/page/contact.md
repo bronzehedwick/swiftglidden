@@ -6,8 +6,7 @@ draft: false
 
 #### Test text here
 
-####
-<div align="center">Get in touch here for private event/other requests, collaborations, or just to say, "Hi!"</div>
+#### <div align="center">Get in touch here for private event/other requests, collaborations, or just to say, "Hi!"</div>
 
 
 <form method="POST" action="https://formspree.io/swiftglidden@gmail.com">
