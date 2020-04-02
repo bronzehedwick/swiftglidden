@@ -8,7 +8,7 @@ draft: false
     <h3>
       \*Updated\*
     </h3>
-  <i>
+  </i>
 
 Two very cool shows to check out in November
 
