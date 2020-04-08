@@ -11,6 +11,4 @@ With his longtime songwriting partner Andy McCarthy, Grant wrote, performed and 
 
 Grant plays regularly in a variety of formats in both private and public venues throughout the United States. He has earned a great reputation as a cover song performer. His clients have included Audi North America, The New York Yacht Club, and Magic Hat Brewing Company. You can find more information about his availability and extensive cover song repertoire on the "Private Events" page.
 
-Grant is currently working on an upcoming album of original psych-folk-rock material to be released in 2019, as well as writing and recording the soundtrack for an upcoming video game for iOS and Android.
-
-Recently he composed and recorded the scores for Abandoned House Productions' two upcoming premiere releases, [The Slightest Touch](https://vimeo.com/223501848) and [The Shadow Scarf](https://vimeo.com/221091888): short psychological thriller films about abuse, betrayal, and revenge in the modern age.
+Grant is currently working on an upcoming album of original psych-pop-rock material to be released in 2020, as well as writing and recording the soundtrack for an upcoming video game for iOS and Android.
