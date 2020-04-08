@@ -10,6 +10,9 @@ Paginate = 3
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [[menu.main]]
   name = "Shows"
   weight = -115
