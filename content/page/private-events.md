@@ -12,9 +12,15 @@ Grant specializes in covers of classic R&B, Rock, Soul, Folk, Pop and Jazz, uniq
 
 He is available in a variety of formats, including wedding bands, small duos and trios, and as a soloist, and travels throughout the United States. A versatile performer, he has done weddings, galas, and corporate events in venues as diverse as concert halls, restaurants and steamboats.
 
-Clients have included Audi North America, The New York Yacht Club, and Magic Hat Brewing Company.
+Clients have included Audi North America, The New York Yacht Club, Time Out New York, Magic Hat Brewing Company, and Hudson Yards New York
 
 For booking, please drop him a request through the ["Contact"](/page/contact) page, or visit his GigSalad profile [here](https://www.gigsalad.com/swift_glidden_brooklyn).
+
+Videos, photos, and song list below.
+
+<hr></hr>
+
+<h2>Videos</h2>
 
 {{< youtube ALIBKHWLTpI >}}
 ---
@@ -23,7 +29,29 @@ For booking, please drop him a request through the ["Contact"](/page/contact) pa
 {{< youtube u4hnKjOwDMc >}}
 ---
 {{< youtube uaT1_09p1iU >}}
+---
+{{< youtube RiU9rexEgsI >}}
+---
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/548550324&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-<h4>The following song list is sortable by clicking <i>"Title"</i> or <i>"Artist"</i></h4>
+<hr></hr>
+
+<h2>Photos</h2>
+
+![Guitar and keyboard at a wedding](/images/events/_ComettoWedding2019-410crop.jpg "Grant performing an outdoor cocktail hour")
+
+![Grant performing with the bride and groom at an outdoor ceremony](/images/events/339-annie-nash_size_edit.jpg "Performing a Special Song with the Bride and Groom!")
+
+![Classical Duo performing a wedding ceremony](/images/events/20191012_GomessaulYates_14652_crop_edit.jpg "Duet for Wedding Ceremony")
+
+![Singing and playing acoustic guitar for an outdoor ceremony in Central Park](/images/events/30291207566_ee551211cd_o_crop_edit.jpeg "Acoustic Wedding Ceremony in Central Park")
+
+![Three piece band playing and people dancing at a wedding reception](/images/events/Grant_Swift_Trio_at_Wedding_edit.png "The Grant Swift Trio Band performing a wedding reception")
+
+<hr></hr>
+
+<h2>Song List</h2>
+
+<h4>The following list is sortable by clicking <i>"Title"</i> or <i>"Artist"</i></h4>
 
 {{< get-csv "/static/files/cover-song-list.csv" >}}

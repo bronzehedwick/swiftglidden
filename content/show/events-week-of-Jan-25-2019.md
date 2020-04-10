@@ -8,7 +8,7 @@ Come see a variety of different events this week.
 - Mon, Jan 21 at 5th&Mad  
 - Tues, Jan 22 at Gamba Living  
 - Thurs, Jan 24 at Niagara
-![5th&Mad at 7pm, Gamba Living at 6pm, Niagara at 8pm](/images/1-25-2019 Week Promo Flyer.jpg "Week of 1/25 Events")
+![5th&Mad at 7pm, Gamba Living at 6pm, Niagara at 8pm](/images/other/1-25-2019_Week_Promo_Flyer.jpg "Week of 1/25 Events")
 
 Hope to see you this week!  
 

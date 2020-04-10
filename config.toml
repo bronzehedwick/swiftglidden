@@ -26,7 +26,7 @@ unsafe= true
     url = "/post"
 
 [[menu.main]]
-  name = "Bio"
+  name = "Bio/EPK"
   weight = -105
   identifier = "bio"
   url = "/page/bio/"
