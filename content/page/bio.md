@@ -41,6 +41,8 @@ Links and photos below...
 
 <hr></hr>
 
+{{< figure src="/images/press/_MG_3592_size_edit.JPG" >}}
+
 ![BW headshot](/images/press/_MG_3592_size_edit.JPG "Grant BW headshot")
 
 ![headshot](/images/press/IMG_4398_Color_Edit_crop.jpg "Grant headshot")
