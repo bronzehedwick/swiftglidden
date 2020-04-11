@@ -41,10 +41,7 @@ Links and photos below...
 
 <hr></hr>
 
-<img src="/images/press/_MG_3592_size_edit2.JPG" alt="Kitten"
-	title="A cute kitten" />
-
-![B&W headshot](/images/press/_MG_3592_size_edit.JPG "Grant B&W headshot")
+![BW headshot](/images/press/_MG_3592_size_edit.JPG "Grant BW headshot")
 
 ![headshot](/images/press/IMG_4398_Color_Edit_crop.jpg "Grant headshot")
 
@@ -54,9 +51,9 @@ Links and photos below...
 
 ![multiple exposure acoustic guitar shot](/images/press/_MG_3949_size_edit.JPG "Multiple Exposure With Acoustic Guitar")
 
-![profile shot with hoodie](/images/press/_MG_3712_size_edit.JPG "Profile B&W shot")
+![profile shot with hoodie](/images/press/_MG_3712_size_edit.JPG "Profile BW shot")
 
-![profile shot looking down](/images/press/_MG_3745_size_edit.JPG "Profile B&W Looking Down")
+![profile shot looking down](/images/press/_MG_3745_size_edit.JPG "Profile BW Looking Down")
 
 ![portrait on the beach](/images/press/_MG_0060_color_size_edit.JPG "Grant portrait on beach in Rye, NY")
 
