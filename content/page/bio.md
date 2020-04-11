@@ -41,6 +41,9 @@ Links and photos below...
 
 <hr></hr>
 
+<img src="/images/press/_MG_3592_size_edit.JPG" alt="Kitten"
+	title="A cute kitten" />
+
 ![B&W headshot](/images/press/_MG_3592_size_edit.JPG "Grant B&W headshot")
 
 ![headshot](/images/press/IMG_4398_Color_Edit_crop.jpg "Grant headshot")
