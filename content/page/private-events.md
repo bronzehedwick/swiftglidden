@@ -33,6 +33,8 @@ Videos, photos, and song list below.
 {{< youtube uaT1_09p1iU >}}
 ---
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/548550324&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 <hr></hr>
 
 <h2>Photos</h2>
