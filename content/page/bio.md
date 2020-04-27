@@ -35,7 +35,7 @@ Links and photos below...
 
 <sup id="fn9"><a href="#ref9" title="Jump back to footnote 9 in the text." style="text-decoration: none">9.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/5Ldz-YngrKo" target="_blank">AUDIO - Grant Swift (2020) Unreleased Single "I'm The Man"</a></sup>
 
-<sup id="fn10"><a href="#ref10" title="Jump back to footnote 10 in the text." style="text-decoration: none">10.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gigsalad.com/grant_swift" target="_blank">GigSalad Reviews of Grant Swift's Live One-Man Band and Duo Format</a></sup>
+<sup id="fn10"><a href="#ref10" title="Jump back to footnote 10 in the text." style="text-decoration: none">10.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gigsalad.com/grant_swift" target="_blank">GigSalad Reviews of Grant Swift's Live One-Man Band and Duo/Trio/Band format</a></sup>
 
 <sup id="fn11"><a href="#ref11" title="Jump back to footnote 11 in the text." style="text-decoration: none">11.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/uaT1_09p1iU" target="_blank">VIDEO - Grant performs "You're All I Need To Get By"</a></sup>
 
