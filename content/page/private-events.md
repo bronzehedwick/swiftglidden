@@ -8,6 +8,8 @@ draft: false
 
 <a href="https://www.gigsalad.com/swift_glidden_brooklyn"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/five-star-talent/talent--blue.svg" alt="Five-Star Singing Guitarist on GigSalad" height="128" width="128"></a>
 
+<a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/virtual-services/virtual-services.svg" alt="Offering virtual services" height="128" width="128"></a>
+
 Grant specializes in covers of classic R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for acoustic guitar and voice. His extensive repertoire (scroll down for a sortable sample list) contains everything from The Beatles to Marvin Gaye, Frank Sinatra to Ed Sheeran. Some loop pedal magic helps to fill out the sound for medium to large venues.
 
 He is available in a variety of formats, including wedding bands, small duos and trios, and as a soloist, and travels throughout the United States. A versatile performer, he has done weddings, galas, and corporate events in venues as diverse as concert halls, restaurants and steamboats.
@@ -30,8 +32,7 @@ Videos, photos, and song list below.
 ---
 {{< youtube uaT1_09p1iU >}}
 ---
-{{< youtube RiU9rexEgsI >}}
----
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/548550324&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 <hr></hr>

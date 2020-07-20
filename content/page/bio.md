@@ -9,7 +9,7 @@ While studying at Fordham University, Grant served as the Music Director of ICCA
 
 With his longtime songwriting partner Andy McCarthy, Grant wrote, performed and engineered Mac/Glidden's debut psychedelic-folk-rock album, *Fall Into The Dark*, released in 2017. Their music video for the song “Mountains,”<sup><a href="#fn5" id="ref5">5</a></sup> &nbsp;directed and animated by Laurie Berenhaus, was an official selection at Sidewalk Film Festival, Indie Memphis Fest, and Leeds International Film Festival, among others. Also in 2017, they had the great honor of being invited by the late, prodigious, two-time Emmy Award Winning Music Director for Saturday Night Live, Katreese Barnes<sup><a href="#fn6" id="ref6">6</a></sup> &nbsp;to perform in her home for her live stream concert series, *Welcome 2 My House*. Katreese wrote original arrangements for several of their songs and provided a backing band and orchestra for the live stream performance.<sup><a href="#fn7" id="ref7">7,</a></sup> <sup><a href="#fn8" id="ref8">8</a></sup> &nbsp;Katreese said, “Mac/Glidden are keepers of the classic Music flame. It was a pleasure to work with them.”
 
-Grant is currently working on an upcoming album of original psych-pop-rock material to be released in 2020. The still officially "unreleased" first single is "I'm The Man"<sup><a href="#fn9" id="ref9">9</a></sup> &nbsp;as well as writing and recording the soundtrack for an upcoming video game for iOS and Android.
+Grant is currently working on an upcoming album of original psych-pop-rock material to be released in 2020. The still officially "unreleased" first single is "I'm The Man."<sup><a href="#fn9" id="ref9">9</a></sup> &nbsp;He is also currently writing and recording the soundtrack for an upcoming video game for iOS and Android.
 
 Grant plays regularly in a variety of formats in both private and public venues throughout the United States. He has earned a great reputation as a cover song performer and one-man band.<sup><a href="#fn10" id="ref10">10,</a></sup> <sup><a href="#fn11" id="ref11">11,</a></sup> &nbsp;His clients have included Audi North America, The New York Yacht Club, and Time Out New York. You can find more information about that, see more video samples, and view his extensive cover song repertoire by clicking the "Private Events" tab at the top of this page.
 
@@ -35,7 +35,7 @@ Links and photos below...
 
 <sup id="fn9"><a href="#ref9" title="Jump back to footnote 9 in the text." style="text-decoration: none">9.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/5Ldz-YngrKo" target="_blank">AUDIO - Grant Swift (2020) Unreleased Single "I'm The Man"</a></sup>
 
-<sup id="fn10"><a href="#ref10" title="Jump back to footnote 10 in the text." style="text-decoration: none">10.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gigsalad.com/grant_swift" target="_blank">GigSalad Reviews of Grant Swift's Live One-Man Band and Duo Format</a></sup>
+<sup id="fn10"><a href="#ref10" title="Jump back to footnote 10 in the text." style="text-decoration: none">10.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gigsalad.com/grant_swift" target="_blank">GigSalad Reviews of Grant Swift's Live One-Man Band and Duo/Trio/Band format</a></sup>
 
 <sup id="fn11"><a href="#ref11" title="Jump back to footnote 11 in the text." style="text-decoration: none">11.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/uaT1_09p1iU" target="_blank">VIDEO - Grant performs "You're All I Need To Get By"</a></sup>
 
