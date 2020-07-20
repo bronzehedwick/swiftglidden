@@ -12,9 +12,9 @@ draft: false
 
 Grant specializes in covers of classic R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for acoustic guitar and voice. His extensive repertoire (scroll down for a sortable sample list) contains everything from The Beatles to Marvin Gaye, Frank Sinatra to Ed Sheeran. Some loop pedal magic helps to fill out the sound for medium to large venues.
 
-He is available in a variety of formats, including wedding bands, small duos and trios, and as a soloist, and travels throughout the United States. A versatile performer, he has done weddings, galas, and corporate events in venues as diverse as concert halls, restaurants and steamboats.
+He is available in a variety of formats, most recently as a virtual performer with his top of the line home audio/video streaming setup. For in-person events he performs regularly in his classic one-man band format, but also leads duos and trios when it suits the venue. He travels throughout the United States. A versatile performer, he has worked weddings, galas, and corporate events in venues as diverse as concert halls, restaurants and steamboats.
 
-Clients have included Audi North America, The New York Yacht Club, Time Out New York, Magic Hat Brewing Company, and Hudson Yards New York
+Clients have included Audi North America, The New York Yacht Club, Time Out New York, and Hudson Yards.
 
 For booking, please drop him a request through the ["Contact"](/page/contact) page, or visit his GigSalad profile [here](https://www.gigsalad.com/swift_glidden_brooklyn).
 
@@ -24,13 +24,13 @@ Videos, photos, and song list below.
 
 <h2>Videos</h2>
 
+{{< youtube uaT1_09p1iU >}}
+---
 {{< youtube ALIBKHWLTpI >}}
 ---
 {{< youtube diSaV3K3bkA >}}
 ---
 {{< youtube u4hnKjOwDMc >}}
----
-{{< youtube uaT1_09p1iU >}}
 ---
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/548550324&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>

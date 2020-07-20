@@ -61,6 +61,4 @@ Links and photos below...
 
 ![smiling while performing at a venue in NYC](/images/press/_MG_0355_size_edit.jpg "Banter between songs")
 
-![singing loudly as Mac/Glidden](/images/press/Olivia_QA9A0724.Still001_crop_edit.jpg "Singing as a Duo")
-
 ![performing at Sofar Sounds DC event](/images/press/Sofar-20170820-HQ-8072_size_edit.jpg "Performing at Sofar DC")

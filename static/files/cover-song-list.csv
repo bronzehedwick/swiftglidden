@@ -1,8 +1,11 @@
 Title,Artist
+A Change Is Gonna Come,Sam Cooke
 A Day in the Life,The Beatles
 A Hard Day’s Night,The Beatles
 A Pirate Looks at Forty,Jimmy Buffett
 A Well Respected Man,The Kinks
+About A Girl,Nirvana
+Ain't No Mountain High Enough,Marvin Gaye and Tammi Terrell
 """Air On The G String"" (Suite No. 3 in D major, 2nd mvt)",Johann Sebastian Bach
 All I Am,Jess Glynne
 All I Have To Do Is Dream,The Everly Brothers
@@ -15,6 +18,7 @@ America,Simon & Garfunkel
 American Girl,Tom Petty & The Heartbreakers
 American Pie,Don McLean
 And I Love Her,The Beatles
+Angel Dream,Tom Petty and the Heartbreakers
 Ants Marching,Dave Matthews Band
 Baby I Love Your Way,Peter Frampton
 Baby One More Time,Britney Spears
@@ -23,11 +27,13 @@ Bang A Gong (Get It On),T. Rex
 Beast Of Burden,The Rolling Stones
 Bennie & The Jets,Elton John
 Better Together,Jack Johnson
+Beyond,Leon Bridges
 Billie Jean,Michael Jackson
 Black Hole Sun,Soundgarden
 Blowin' in the Wind,Bob Dylan
 Blue Skies,Irving Berlin
 Both Sides Now,Joni Mitchell
+Brick,Ben Folds Five
 Bring It On Home,Sam Cooke
 Brown Eyed Girl,Van Morrison
 Build Me Up Buttercup,The Foundations
@@ -35,6 +41,9 @@ California Dreamin',The Mamas & The Papas
 Canon in D,Johann Pachelbel
 Can't Help Falling in Love,Elvis Presley
 Can't Take My Eyes Off You,Frankie Valli (or Lauryn Hill)
+Carolina in My Mind,James Taylor
+Cat's in the Cradle,Harry Chapin
+Chandelier,Sia
 Closing Time,Semisonic
 Colder Weather,Zac Brown Band
 Could You Be Loved,Bob Marley & The Wailers
@@ -58,6 +67,9 @@ Drive,The Cars
 Enjoy The Silence,Depeche Mode
 Everlong,Foo Fighters
 Everybody Wants To Rule The World,Tears For Fears
+Ex's & Oh's,Elle King
+Express Yourself,Charles Wright & the Watts 103rd Street Rhythm Band
+Flagpole Sitta,Harvey Danger
 Flowers Never Bend With The Rainfall,Simon & Garfunkel
 Fly Me To The Moon,Frank Sinatra
 Fortunate Son,Creedence Clearwater Revival
@@ -90,7 +102,9 @@ I'll Be,Edwin McCain
 I'll Be Back,The Beatles
 I'll Be Your Baby Tonight,Bob Dylan
 I'm A Believer,The Monkees
+I'm Gonna Be (500 Miles),The Proclaimers
 I'm Looking Through You,The Beatles
+I'm On Fire,Bruce Springsteen
 I'm Waiting For The Man,The Velvet Underground
 Imagine,John Lennon
 In Dreams,Roy Orbison
@@ -103,6 +117,7 @@ Ironic,Alanis Morissette
 It Must Have Been The Roses,Grateful Dead
 It Won't Be Long,The Beatles
 It's Alright,Curtis Mayfield & The Impressions
+It's Gonna Be Me,NSYNC
 It's Only a Paper Moon,Ella Fitzgerald
 I've Just Seen A Face,The Beatles
 Jealous,Labrinth
@@ -113,12 +128,14 @@ Jumpin' Jack Flash,The Rolling Stones
 Just The Two Of Us,Bill Withers
 Just the Way You Are,Billy Joel
 Just the Way You Are,Bruno Mars
+Just What I Needed,The Cars
 Killing Floor,Howlin' Wolf
 Knocks Me Off My Feet,Stevie Wonder
 La Vie en rose,Édith Piaf
 Lady Stardust,David Bowie
 Landslide,Fleetwood Mac
 Layla,Eric Clapton
+Lean on Me,Bill Withers
 Let It Snow! Let It Snow! Let it Snow!,Vaughn Monroe
 Let's Dance,David Bowie
 Let's Get It On,Marvin Gaye
@@ -132,9 +149,12 @@ Maps,Yeah Yeah Yeahs
 Marry You,Bruno Mars
 Mary Jane's Last Dance,Tom Petty & The Heartbreakers
 Me & Julio Down By The School Yard,Paul Simon
+Message In a Bottle,The Police
 Mind Games,John Lennon
+Money (That's What I Want),Barrett Strong
 Moondance,Van Morrison
 More Than A Woman,Bee Gees
+Motorcycle Drive By,Third Eye Blind
 Mrs. Robinson,Simon & Garfunkel
 My Cherie Amour,Stevie Wonder
 My Girl,The Temptations
@@ -143,9 +163,12 @@ My Hero,Foo Fighters
 New York State of Mind,Billy Joel
 Night Moves,Bob Seger
 Nobody Told Me,John Lennon
+Nothing Compares 2 U,Prince (or Sinéad O'Connor)
 Once In A Lifetime,Talking Heads
+One Love/People Get Ready,Bob Marley & The Wailers
 One More Cup Of Coffee,Bob Dylan
 'O Sole Mio,Luciano Pavarotti
+Peace of Mind,Boston
 Perfect,Ed Sheeran
 Picture Book,The Kinks
 Proud Mary,Creedence Clearwater Revival
@@ -154,9 +177,11 @@ Pulling Mussels (From The Shell),Squeeze
 Riptide,Vance Joy
 Rock And Roll,Led Zeppelin
 Rocky Raccoon,The Beatles
+Romeo and Juliet,Dire Straits
 Royals,Lorde
 Satellite,Dave Matthews Band
 Say It Ain't So,Weezer
+Say My Name,Destiny's Child
 Semi-Charmed Life,Third Eye Blind
 Shape of You,Ed Sheeran
 She's Got Everything,The Kinks
@@ -168,6 +193,7 @@ Single Ladies,Beyoncé
 "Signed, Sealed, Delivered I'm Yours",Stevie Wonder
 Slide,Goo Goo Dolls
 So Happy Together,The Turtles
+Solsbury Hill,Peter Gabriel
 Something,The Beatles
 Spirit In The Sky,Norman Greenbaum
 Stand By Me,Ben E. King
@@ -208,14 +234,18 @@ Victoria,The Kinks
 Wait,The Beatles
 Walking in Memphis,Marc Cohn
 We've Got A Groovy Thing Goin',Simon & Garfunkel
+What a Wonderful World,Louis Armstrong
 Wheel,John Mayer
 When Will I Be Loved,The Everly Brothers
+While My Guitar Gently Weeps,The Beatles
 White Christmas,Bing Crosby
+White Houses,Vanessa Carlton
 Wild Horses,The Rolling Stones
 Wild World,Cat Stevens
 Will You Love Me Tomorrow,The Shirelles
 Wish You Were Here,Pink Floyd
 With A Little Help From My Friends,The Beatles
+Wonderful World,Sam Cooke
 Would?,Alice In Chains
 Yes,Beyoncé
 You Are My Sunshine,Rice Brothers' Gang
@@ -227,6 +257,8 @@ You Make My Dreams,Hall & Oates
 You May Be Right,Billy Joel
 You Won't See Me,The Beatles
 Young Americans,David Bowie
+Your Song,Elton John
 You're All I Need to Get By,Marvin Gaye and Tammi Terrell
+You're My Best Friend,Queen
 You're The One That I Want,John Travolta and Olivia Newton-John
 You've Got To Hide Your Love Away,The Beatles
