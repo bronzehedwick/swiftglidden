@@ -19,6 +19,12 @@ unsafe= true
   identifier = "shows"
   url = "/show"
 
+[[menu.main]]
+  name = "Testing"
+  weight = -115
+  identifier = "testing"
+  url = "/testing"
+
   [[menu.main]]
     name = "Posts"
     weight = -110
