@@ -65,4 +65,4 @@ Links and photos below...
 
 ![performing at Sofar Sounds DC event](/images/press/Sofar-20170820-HQ-8072_size_edit.jpg "Performing at Sofar DC")
 
-![performing at Sofar Sounds DC event](/images/press/_MG_3592_size_edit&20copy.jpg "Performing at Sofar DC")
+![performing at Sofar Sounds DC event](/images/press/_MG_3592_size_edit_copy.jpg "Performing at Sofar DC")
