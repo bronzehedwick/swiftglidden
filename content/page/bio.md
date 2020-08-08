@@ -64,3 +64,5 @@ Links and photos below...
 ![smiling while performing at a venue in NYC](/images/press/_MG_0355_size_edit.jpg "Banter between songs")
 
 ![performing at Sofar Sounds DC event](/images/press/Sofar-20170820-HQ-8072_size_edit.jpg "Performing at Sofar DC")
+
+![performing at Sofar Sounds DC event](/images/press/_MG_3592_size_email_sig.jpg "Performing at Sofar DC")
