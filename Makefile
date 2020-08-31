@@ -10,7 +10,7 @@ clean: ## Remove build directory.
 	@if [ -d public ]; then rm -rf public; fi && mkdir public
 
 sync: ## Push the site to the server.
-	@rsync --recursive --delete --rsh=ssh --exclude=".*" --quiet public/ waitstaff_deploy:/usr/local/www/grantswiftmusic.com
+	@rsync --recursive --delete --chown=grant:www --rsh=ssh --exclude=".*" --quiet public/ waitstaff_deploy:/usr/local/www/grantswiftmusic.com
 
 push: ## Push committed changes.
 	@git push origin master
