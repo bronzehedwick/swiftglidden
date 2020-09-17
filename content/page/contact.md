@@ -10,7 +10,9 @@ Get in touch here for private event/other requests, collaborations, or just to s
   </center>
 </h4>
 
-<form method="POST" action="https://formspree.io/grant@grantswiftmusic.com">
+<form
+  action="https://formspree.io/xjvpbzrz"
+  method="POST"
   <label for="email">Email</label>
   <input name="email" placeholder="me@example.com" type="email" required>
   <label for="message">Message</label>
