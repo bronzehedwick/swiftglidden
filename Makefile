@@ -15,7 +15,7 @@ sync: ## Push the site to the server.
 push: ## Push committed changes.
 	@git push origin master
 
-web: clean build sync ## Combines the build and sync tasks.
+web: push clean build sync ## Combines the build and sync tasks.
 
 serve: ## Start local development server.
 	@hugo serve --buildDrafts > hugo.log 2>&1 &
