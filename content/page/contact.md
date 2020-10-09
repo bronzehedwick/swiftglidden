@@ -18,7 +18,7 @@ Get in touch here for private event/other requests, collaborations, or just to s
   <label for="message">Message</label>
   <textarea name="message" placeholder="Describe your event or request." required></textarea>
   <label for="name">Name</label>
-  <input type="text" name="name" placeholder="Jame Doe" required>
+  <input type="text" name="name" placeholder="Jane Doe" required>
   <label for="phone">Phone (optional)</label>
   <input type="tel" name="phone" placeholder="(555) 555-555">
   <button type="submit">Send</button>
