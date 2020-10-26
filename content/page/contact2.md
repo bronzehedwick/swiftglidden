@@ -1,7 +1,11 @@
 ---
-title: "Shows"
-date: 2020-10-26T19:01:00-05:00
+title: "Contact2"
+date: 2018-04-25T19:12:28-04:00
 draft: false
 ---
 
-hello world
+<h4>
+  <center>
+Get in touch here for private event/other requests, collaborations, or just to say, "Hi!"
+  </center>
+</h4>
