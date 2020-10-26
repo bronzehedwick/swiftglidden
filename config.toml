@@ -13,17 +13,17 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
 unsafe= true
 
-[[menu.main]]
-  name = "Shows"
-  weight = -115
-  identifier = "shows"
-  url = "/show"
+#[[menu.main]]
+  #name = "Shows"
+  #weight = -115
+  #identifier = "shows"
+  #url = "/show"
 
-  [[menu.main]]
-    name = "Posts"
-    weight = -110
-    identifier = "posts"
-    url = "/post"
+[[menu.main]]
+  name = "Posts"
+  weight = -110
+  identifier = "posts"
+  url = "/post"
 
 [[menu.main]]
   name = "Bio/EPK"
