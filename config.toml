@@ -13,6 +13,12 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
 unsafe= true
 
+[[menu.main]]
+  name = "Shows"
+  weight = -115
+  identifier = "shows"
+  url = "/page/shows/"
+
 #[[menu.main]]
   #name = "Shows"
   #weight = -115
@@ -71,5 +77,5 @@ unsafe= true
   linkedin = ""
   background_color_class = "bg-black"
   featured_image = "/images/swifthome.jpg"
-  mainSections = ["post","show"]
+  mainSections = ["post",]
   body_classes = "avenir bg-near-white"
