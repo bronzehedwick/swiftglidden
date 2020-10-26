@@ -13,6 +13,19 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
 unsafe= true
 
+[[menu.main]]
+  name = "Shows"
+  weight = -115
+  identifier = "shows"
+  url = "/page/shows/"
+
+#below section is treated like "post" or blog entry. Note the url does not have /page
+
+#[[menu.main]]
+  #name = "Shows"
+  #weight = -115
+  #identifier = "shows"
+  #url = "/show"
 
 [[menu.main]]
   name = "Posts"
