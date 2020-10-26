@@ -13,11 +13,6 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
 unsafe= true
 
-[[menu.main]]
-  name = "Shows"
-  weight = -115
-  identifier = "shows"
-  url = "/page/shows/"
 
 [[menu.main]]
   name = "Posts"
