@@ -19,12 +19,6 @@ unsafe= true
   identifier = "shows"
   url = "/page/shows/"
 
-#[[menu.main]]
-  #name = "Shows"
-  #weight = -115
-  #identifier = "shows"
-  #url = "/show"
-
 [[menu.main]]
   name = "Posts"
   weight = -110
