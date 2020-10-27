@@ -49,7 +49,7 @@ unsafe= true
   name = "Compositions"
   weight = -95
   identifier = "compositions"
-  url = "[Pizza](https://en.wikipedia.org/wiki/Pizza "Yum Yum")
+  url = [Pizza](https://en.wikipedia.org/wiki/Pizza)
   hrefTargetBlank = true
 
 [[menu.main]]
