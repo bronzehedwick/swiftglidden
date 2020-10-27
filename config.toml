@@ -49,7 +49,7 @@ unsafe= true
   name = "Compositions"
   weight = -95
   identifier = "compositions"
-  url = "https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona"
+  url = "https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona" target="_blank"
 
 [[menu.main]]
   name = "Sign Up"
