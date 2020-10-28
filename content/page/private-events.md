@@ -51,7 +51,7 @@ Videos, photos, and song list below.
 
 <hr></hr>
 
-<h2>Song List</h2>
+<h2 id="songlist">Song List</h2>
 
 <h4>The following list is sortable by clicking <i>"Title"</i> or <i>"Artist"</i></h4>
 
