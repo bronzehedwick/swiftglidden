@@ -30,6 +30,8 @@ Videos, photos, and song list below.
 ---
 {{< youtube diSaV3K3bkA >}}
 ---
+{{< youtube vBIf3yK_ILI >}}
+---
 {{< youtube u4hnKjOwDMc >}}
 ---
 
