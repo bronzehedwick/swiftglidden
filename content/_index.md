@@ -8,25 +8,10 @@ Check out my [Bio](/page/bio/) for more about me.
 
 <br>
 
-<html>
-  <head>
-    <style>
-      h1 {text-align: center;}
-      p {text-align: center;}
-      div {text-align: center;}
-    </style>
-  </head>
-<body>
-
 <p>You can donate through the button below to help me create my next album.</p>
-
-</body>
-</html>
-
-<center>
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XC5GPL6DGUEHC" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="border: 0px none ; padding: 0px; width: 100px; height: 100px;"/>
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="display: block; margin: 0 auto; border: 0px none ; padding: 0px; width: 100px; height: 100px;"/>
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
