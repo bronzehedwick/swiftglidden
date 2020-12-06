@@ -41,6 +41,8 @@ Videos, photos, and song list below.
 
 <h2>Photos</h2>
 
+![Acoustic guitarist and singer serenade for surprise wedding proposal](/images/events/DE1A7424_Crop_and_Credit.jpg "Winter proposal at The High Line, NYC")
+
 ![Guitar and keyboard at a wedding](/images/events/_ComettoWedding2019-410crop.jpg "Grant performing an outdoor cocktail hour")
 
 ![Grant performing with the bride and groom at an outdoor ceremony](/images/events/339-annie-nash_size_edit.jpg "Performing a Special Song with the Bride and Groom!")
