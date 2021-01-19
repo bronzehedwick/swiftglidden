@@ -3,7 +3,7 @@ title: "Bio and EPK"
 date: 2017-12-09T20:11:00-05:00
 draft: false
 ---
-NYC native Grant Swift is an acclaimed vocalist, guitarist, composer and producer. He is one half of the acoustic duo Mac/Glidden.<sup><a href="#fn1" id="ref1">1</a></sup> &nbsp;His music is uncanny but warm, inspired by an eclectic mix of 60's pop and R&B, jazz standards, 90's alternative, and the choral, baroque and classical music he was trained in as a boy. Impose Magazine said it "brilliantly recreates a modern mashup sound,"<sup><a href="#fn2" id="ref2">2</a></sup> &nbsp;and The Huffington Post called his previous musical duo project The Candy Apples,<sup><a href="#fn3" id="ref3">3</a></sup> &nbsp;one of "5 Must-See Indie Summer Concerts in NYC" in 2014.<sup><a href="#fn4" id="ref4">4</a></sup>
+New York City native Grant Swift is an acclaimed vocalist, guitarist, composer and producer. He is one half of the acoustic duo Mac/Glidden.<sup><a href="#fn1" id="ref1">1</a></sup> &nbsp;His music is uncanny but warm, inspired by an eclectic mix of 60's pop and R&B, jazz standards, 90's alternative, and the choral, baroque and classical music he was trained in as a boy. Impose Magazine said it "brilliantly recreates a modern mashup sound,"<sup><a href="#fn2" id="ref2">2</a></sup> &nbsp;and The Huffington Post called his previous musical duo project The Candy Apples,<sup><a href="#fn3" id="ref3">3</a></sup> &nbsp;one of "5 Must-See Indie Summer Concerts in NYC" in 2014.<sup><a href="#fn4" id="ref4">4</a></sup>
 
 While studying at Fordham University, Grant served as the Music Director of ICCA Semi-Finalists, The Fordham Ramblers, Fordham University’s original all-male acapella group. As he earned a full double major BA in Music Composition and Philosophy, Grant led the group to their first Quarterfinal placement, with his characteristically intricate vocal arrangements.
 
@@ -11,35 +11,39 @@ With longtime songwriting partner Andy McCarthy, Grant wrote, performed and engi
 
 Also in 2017, he had the great honor of being invited by the late, prodigious, two-time Emmy Award Winning Music Director for Saturday Night Live, Katreese Barnes<sup><a href="#fn6" id="ref6">6</a></sup> &nbsp;to perform in her home for her live stream concert series, *Welcome 2 My House*. Katreese wrote orchestral arrangements of Mac/Glidden songs for the concert, and provided a full backing band.<sup><a href="#fn7" id="ref7">7,</a></sup> <sup><a href="#fn8" id="ref8">8</a></sup> &nbsp;Katreese said, “Mac/Glidden are keepers of the classic Music flame. It was a pleasure to work with them.”
 
-Grant is currently working on an upcoming album of original psych-pop-rock material to be released in 2020. The still officially "unreleased" first single is "I'm The Man."<sup><a href="#fn9" id="ref9">9</a></sup> &nbsp;He is also currently writing and recording the soundtrack for an upcoming video game for iOS and Android.
+While gigging in March of 2020, Grant contracted SARS-CoV-2. He developed symptoms within 3 days of exposure and tested positive for COVID-19. During his 2.5 week in-home recovery, Grant wrote and recorded a 2-song album about his varying perspectives on the pandemic, "Fear and Love in the Time of Corona", and produced a music video in NYC Parks for the second song, "Love (In the Time of Corona)".<sup><a href="#fn9" id="ref9">9,</a></sup> <sup><a href="#fn10" id="ref10">10</a></sup> &nbsp;Grant is currently working on two upcoming albums of original psych-pop-rock and folk material to be released in 2021. A still officially "unreleased" first single is "I'm The Man."<sup><a href="#fn11" id="ref11">11</a></sup> &nbsp;He is also currently writing and recording the soundtrack for an upcoming iOS and Android video game.
 
-Grant plays regularly in a variety of formats in both private and public venues throughout the United States. He has earned a great reputation as a cover song performer and one-man band.<sup><a href="#fn10" id="ref10">10,</a></sup> <sup><a href="#fn11" id="ref11">11,</a></sup> &nbsp;His clients have included Audi North America, The New York Yacht Club, and Time Out New York. You can find more information about that, see more video samples, and view his extensive cover song repertoire by clicking the "Private Events" tab at the top of this page.
+Grant plays regularly in a variety of formats in both private and public venues throughout the United States. He has earned a great reputation as a cover song performer and one-man band.<sup><a href="#fn12" id="ref12">12,</a></sup> <sup><a href="#fn13" id="ref13">13</a></sup> &nbsp;His clients have included Audi North America, The New York Yacht Club, and Time Out New York. You can find more information about that, see more video samples, and view his extensive cover song repertoire by clicking the "Private Events" tab at the top of this page.
 
 Links and photos below...
 
 <hr></hr>
 
-<sup id="fn1"><a href="#ref1" title="Jump back to footnote 1 in the text." style="text-decoration: none">1.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://macgliddenmusic.bandcamp.com" target="_blank">AUDIO - Mac/Glidden's Music Page</a></sup>
+<sup id="fn1"><a href="#ref1" title="Jump back to footnote 1 in the text." style="text-decoration: none">1.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://macgliddenmusic.bandcamp.com" target="_blank">AUDIO - Mac/Glidden's Music Page</a></sup>
 
-<sup id="fn2"><a href="#ref2" title="Jump back to footnote 2 in the text." style="text-decoration: none">2.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://imposemagazine.com/music/mac-glidden-with-the-track-politician" target="_blank">Impose Magazine (2018). Mac/Glidden with the track “Politician”</a></sup>
+<sup id="fn2"><a href="#ref2" title="Jump back to footnote 2 in the text." style="text-decoration: none">2.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://imposemagazine.com/music/mac-glidden-with-the-track-politician" target="_blank">Impose Magazine (2018). Mac/Glidden with the track “Politician”</a></sup>
 
-<sup id="fn3"><a href="#ref3" title="Jump back to footnote 3 in the text." style="text-decoration: none">3.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/EYT0glaw-Bw" target="_blank">VIDEO - The Candy Apples, Jumpin' Jack Flash - Acoustic Recording</a></sup>
+<sup id="fn3"><a href="#ref3" title="Jump back to footnote 3 in the text." style="text-decoration: none">3.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/EYT0glaw-Bw" target="_blank">VIDEO - The Candy Apples, Jumpin' Jack Flash - Acoustic Recording</a></sup>
 
-<sup id="fn4"><a href="#ref4" title="Jump back to footnote 4 in the text." style="text-decoration: none">4.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.huffpost.com/entry/5-mustsee-indie-summer-co_b_5572241" target="_blank">Huffington Post (2014). 5 Must-See Indie Summer Concerts in NYC</a></sup>
+<sup id="fn4"><a href="#ref4" title="Jump back to footnote 4 in the text." style="text-decoration: none">4.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.huffpost.com/entry/5-mustsee-indie-summer-co_b_5572241" target="_blank">Huffington Post (2014). 5 Must-See Indie Summer Concerts in NYC</a></sup>
 
-<sup id="fn5"><a href="#ref5" title="Jump back to footnote 5 in the text." style="text-decoration: none">5.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/9We-gTGMaZ0" target="_blank">VIDEO - Mountains (Official Music Video), by Mac/Glidden</a></sup>
+<sup id="fn5"><a href="#ref5" title="Jump back to footnote 5 in the text." style="text-decoration: none">5.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/9We-gTGMaZ0" target="_blank">VIDEO - Mountains (Official Music Video), by Mac/Glidden</a></sup>
 
-<sup id="fn6"><a href="#ref6" title="Jump back to footnote 6 in the text." style="text-decoration: none">6.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.independent.co.uk/news/obituaries/katreese-barnes-death-snl-musical-director-obituary-roberta-flack-chaka-khan-a9078946.html" target="_blank">The Independent (2019). Katreese Barnes: Saturday Night Live musical director known for flair and versatility</a></sup>
+<sup id="fn6"><a href="#ref6" title="Jump back to footnote 6 in the text." style="text-decoration: none">6.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.independent.co.uk/news/obituaries/katreese-barnes-death-snl-musical-director-obituary-roberta-flack-chaka-khan-a9078946.html" target="_blank">The Independent (2019). Katreese Barnes: Saturday Night Live musical director known for flair and versatility</a></sup>
 
-<sup id="fn7"><a href="#ref7" title="Jump back to footnote 7 in the text." style="text-decoration: none">7.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/Ug89c-pShvE" target="_blank">VIDEO - Mac/Glidden Sing "Traveler" on Welcome 2 My House</a></sup>
+<sup id="fn7"><a href="#ref7" title="Jump back to footnote 7 in the text." style="text-decoration: none">7.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/Ug89c-pShvE" target="_blank">VIDEO - Mac/Glidden Sing "Traveler" on Welcome 2 My House</a></sup>
 
-<sup id="fn8"><a href="#ref8" title="Jump back to footnote 8 in the text." style="text-decoration: none">8.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/REGTCNAtjtg" target="_blank">VIDEO - Mac/Glidden Sing "The Morning Light" on Welcome 2 My House</a></sup>
+<sup id="fn8"><a href="#ref8" title="Jump back to footnote 8 in the text." style="text-decoration: none">8.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/REGTCNAtjtg" target="_blank">VIDEO - Mac/Glidden Sing "The Morning Light" on Welcome 2 My House</a></sup>
 
-<sup id="fn9"><a href="#ref9" title="Jump back to footnote 9 in the text." style="text-decoration: none">9.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/5Ldz-YngrKo" target="_blank">AUDIO - Grant Swift (2020) Unreleased Single "I'm The Man"</a></sup>
+<sup id="fn9"><a href="#ref9" title="Jump back to footnote 9 in the text." style="text-decoration: none">9.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona" target="_blank">AUDIO - Grant Swift, Fear and Love in the Time of Corona</a></sup>
 
-<sup id="fn10"><a href="#ref10" title="Jump back to footnote 10 in the text." style="text-decoration: none">10.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gigsalad.com/grant_swift" target="_blank">GigSalad Reviews of Grant Swift's Live One-Man Band and Duo/Trio/Band format</a></sup>
+<sup id="fn10"><a href="#ref10" title="Jump back to footnote 10 in the text." style="text-decoration: none">10.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/6t7ywuOk9Ng" target="_blank">VIDEO - Love (In the Time of Corona), Grant Swift, Official Music Video</a></sup>
 
-<sup id="fn11"><a href="#ref11" title="Jump back to footnote 11 in the text." style="text-decoration: none">11.↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/uaT1_09p1iU" target="_blank">VIDEO - Grant performs "You're All I Need To Get By"</a></sup>
+<sup id="fn11"><a href="#ref11" title="Jump back to footnote 11 in the text." style="text-decoration: none">11.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/5Ldz-YngrKo" target="_blank">AUDIO - Grant Swift (2020) Unreleased Single "I'm The Man"</a></sup>
+
+<sup id="fn12"><a href="#ref12" title="Jump back to footnote 12 in the text." style="text-decoration: none">12.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.gigsalad.com/grant_swift" target="_blank">GigSalad Reviews of Grant Swift's Live One-Man Band and Duo/Trio/Band format</a></sup>
+
+<sup id="fn13"><a href="#ref13" title="Jump back to footnote 13 in the text." style="text-decoration: none">13.</a>↩&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/uaT1_09p1iU" target="_blank">VIDEO - Grant performs "You're All I Need To Get By"</a></sup>
 
 <hr></hr>
 

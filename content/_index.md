@@ -1,14 +1,16 @@
-My first *original* release as a solo artist is <a href="https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona" target="_blank">HERE!</a>
+In March of 2020, I contracted SARS-CoV-2 and tested positive for COVID-19 after developing symptoms.
 
-Music Video Below!
+While recovering, I wrote and produced a 2 song album about the ordeal. You can find those songs - my first original release as a solo artist - <a href="https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona" target="_blank">HERE!</a>
 
-Check out my [Bio](/page/bio/) for more about me.
+I also produced a music video, which you can watch below!
+
+Check out my [Bio and Press Kit](/page/bio/) for more about me.
 
 {{< youtube 6t7ywuOk9Ng >}}
 
 <br>
 
-<p>You can donate through the button below to help me create my next album.</p>
+<p>Want to help me create my next album of songs? You can donate by clicking the button below.</p>
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XC5GPL6DGUEHC" />
