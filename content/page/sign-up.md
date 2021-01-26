@@ -1,5 +1,5 @@
 ---
-title: "Sign Up"
+title: "Mailing List"
 date: 2020-01-16T17:48:28-04:00
 draft: false
 ---

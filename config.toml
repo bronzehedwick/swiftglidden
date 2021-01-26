@@ -13,6 +13,12 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
 unsafe= true
 
+#[[menu.main]]
+  #name = "Home"
+  #weight = -120
+  #identifier = "home"
+  #url = "/"
+
 [[menu.main]]
   name = "Shows"
   weight = -115
@@ -40,28 +46,28 @@ unsafe= true
   url = "/page/bio/"
 
 [[menu.main]]
-  name = "Private Events"
+  name = "Hire Grant"
   weight = -100
-  identifier = "private-events"
-  url = "/page/private-events/"
+  identifier = "hire-grant"
+  url = "/page/hire-grant/"
 
 [[menu.main]]
-  name = "Compositions"
+  name = "Original Works"
   weight = -95
-  identifier = "compositions"
+  identifier = "original-works"
   url = "https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona"
 
 [[menu.main]]
-  name = "Sign Up"
+  name = "Mailing List"
   weight = -90
   identifier = "sign-up"
   url = "/page/sign-up/"
 
-[[menu.main]]
-  name = "Contact"
-  weight = -85
-  identifier = "contact"
-  url = "/page/contact/"
+#[[menu.main]]
+  #name = "Contact"
+  #weight = -85
+  #identifier = "contact"
+  #url = "/page/contact/"
 
 [sitemap]
   changefreq = "monthly"

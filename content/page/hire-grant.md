@@ -6,7 +6,7 @@ draft: false
 
 <h4>
   <center>
-Fill out this form to reach me. Performance videos, photos, and a sortable Song List are all below.
+You can fill out this form to reach me. Performance videos, photos, and a sortable Song List are all below.
   </center>
 </h4>
 
@@ -53,7 +53,7 @@ His clients have included Audi North America, The New York Yacht Club, Time Out 
 
 For booking, please drop him a request through the form above.
 
-Videos, photos, audio, and song list below.
+Sample Videos, Audio, Photos, and a Song List are below.
 
 <hr></hr>
 
