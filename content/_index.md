@@ -1,5 +1,3 @@
-<iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:0N654JPafjTAAYiRhrgYWG?si=Qp8D0fitQ1KMLspgEy2J9A&amp;size=detail&amp;theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border-top-color: initial; border-top-style: none; border-top-width: initial; border-right-color: initial; border-right-style: none; border-right-width: initial; border-bottom-color: initial; border-bottom-style: none; border-bottom-width: initial; border-left-color: initial; border-left-style: none; border-left-width: initial; overflow-x: hidden; overflow-y: hidden;" allowtransparency="true"></iframe>
-
 In March of 2020, I contracted SARS-CoV-2 and tested positive for COVID-19 after developing symptoms.
 
 While recovering, I wrote and produced a 2 song album about the ordeal. You can find those songs - my first original release as a solo artist - <a href="https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona" target="_blank">HERE!</a>
