@@ -1,3 +1,5 @@
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:artist:0N654JPafjTAAYiRhrgYWG?si=Qp8D0fitQ1KMLspgEy2J9A&size=detail&theme=light" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
 In March of 2020, I contracted SARS-CoV-2 and tested positive for COVID-19 after developing symptoms.
 
 While recovering, I wrote and produced a 2 song album about the ordeal. You can find those songs - my first original release as a solo artist - <a href="https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona" target="_blank">HERE!</a>
@@ -9,8 +11,6 @@ Check out my [Bio and Press Kit](/page/bio/) for more about me.
 You can hire me for private or public events [HERE](/page/hire-grant/)
 
 {{< youtube 6t7ywuOk9Ng >}}
-
-<br>
 
 <p>Want to help me create my next album of songs? You can donate by clicking the button below.</p>
 
