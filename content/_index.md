@@ -6,7 +6,7 @@ I also produced a music video, which you can watch below!
 
 Check out my [Bio and Press Kit](/page/bio/) for more about me.
 
-You can hire me for private or public events [HERE](/page/hire-me/)
+You can hire me for private or public events [HERE](/page/hire-grant/)
 
 {{< youtube 6t7ywuOk9Ng >}}
 
