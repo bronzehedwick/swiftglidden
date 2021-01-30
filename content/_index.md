@@ -1,3 +1,7 @@
+## Hello
+
+{{< spotify >}}
+
 In March of 2020, I contracted SARS-CoV-2 and tested positive for COVID-19 after developing symptoms.
 
 While recovering, I wrote and produced a 2 song album about the ordeal. You can find those songs - my first original release as a solo artist - <a href="https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona" target="_blank">HERE!</a>
@@ -10,7 +14,7 @@ You can hire me for private or public events [HERE](/page/hire-grant/)
 
 {{< youtube 6t7ywuOk9Ng >}}
 
-<p>Want to help me create my next album of songs? You can donate by clicking the button below.</p>
+Want to help me create my next album of songs? You can donate by clicking the button below.
 
 <form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="XC5GPL6DGUEHC" />
