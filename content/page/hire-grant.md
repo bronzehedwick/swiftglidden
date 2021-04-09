@@ -27,6 +27,8 @@ You can fill out this form to reach me. Performance videos, photos, and a sortab
 
 <hr></hr>
 
+<h2 id="information">Information</h2>
+
 <div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="128" width="108"></a></div>
 
 <!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/top-performer/top-performer--white.svg" alt="Top Performer on GigSalad" height="128" width="116"></a></div>-->
