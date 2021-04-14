@@ -29,11 +29,15 @@ You can fill out this form to reach me. Performance videos, photos, and a sortab
 
 <h2 id="information">Information</h2>
 
-<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="128" width="108"></a></div>
+<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="108" width="88"></a></div>
 
 <!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/top-performer/top-performer--white.svg" alt="Top Performer on GigSalad" height="128" width="116"></a></div>-->
 
 <!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/five-star-talent/talent--white.svg" alt="Five-Star Singing Guitarist on GigSalad" height="128" width="128"></a></div>-->
+
+<div style="display:inline-block;" class="center"><a href="https://www.thumbtack.com/ny/brooklyn/bands-for-hire/grant-swift/service/256518532299646003">
+<img src="/images/other/2021-top-pro-badge.953b08f58e34e11b2533073317801195.png" alt="Thumbtack Top Pro" height="100" width="100">
+</a></div>
 
 <div id="wp-ratedWA" style="display:inline-block;" class="center">
     <a target="_blank" href="https://www.weddingwire.com/biz/grant-swift-glidden-brooklyn/7006221283a11992.html" title="WeddingWire Couples' Choice Award Winner 2019">
@@ -45,7 +49,7 @@ You can fill out this form to reach me. Performance videos, photos, and a sortab
 
 <div style="display:inline-block;" class="center"><a href="https://www.thebash.com/acoustic-band/grantswift" title="Responds quickly to client requests"><img src="https://www.thebash.com/images/badges/rapid-responder-badge-small.png" alt="Responds quickly to client requests" /></a></div>
 
-<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/read-reviews/read-reviews.svg" alt="Read My Reviews on GigSalad" height="100" width="300"></a></div>
+<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/read-reviews/read-reviews.svg" alt="Read My Reviews on GigSalad" height="80" width="280"></a></div>
 
 Grant specializes in covers of classic R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for guitar and voice. His extensive repertoire (scroll down for a sortable sample list) contains everything from Stevie Wonder to Neil Young, Ella Fitzgerald to Ed Sheeran, not to mention his [original works.](https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona) Some loop pedal magic helps to fill out the sound for medium to large venues. Since no backing tracks are used, and everything is created live in the moment, no two performances are ever exactly the same!
 
