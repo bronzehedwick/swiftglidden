@@ -63,7 +63,7 @@ Sample Videos, Audio, Photos, and a Song List are below.
 
 <hr></hr>
 
-<h2>Videos</h2>
+<h2 id="videos">Videos</h2>
 
 {{< youtube uaT1_09p1iU >}}
 ---
