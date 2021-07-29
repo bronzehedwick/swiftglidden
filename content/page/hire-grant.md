@@ -24,14 +24,27 @@ You can fill out this form to reach me. Performance videos, photos, and a sortab
   <button type="submit">Send</button>
 </form>
 
+<hr>
 
-<hr></hr>
+<h2 id="pastclients">Past Clients</h2>
 
-<h2 id="information">Information</h2>
+<div style="display:inline-block; max-width:249px; max-height:84px" class="center"><img src="/images/other/Audi_Rings_Medium_bl-RGB.png" alt="Audi Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
-<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="108" width="88"></a></div>
+<div style="display:inline-block; max-width:299px; max-height:100px" class="center"><img src="/images/other/HY_Logo_black.svg" alt="Hudson Yards Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
-<!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/top-performer/top-performer--white.svg" alt="Top Performer on GigSalad" height="128" width="116"></a></div>-->
+<div style="display:inline-block; max-width:192px; max-height:192px" class="center"><img src="/images/other/tony_186519.png" alt="TimeOut New York Logo"></div>&nbsp&nbsp&nbsp&nbsp
+
+<div style="display:inline-block; max-width:192px; max-height:212px" class="center"><img src="/images/other/nyyclogo.jpg" alt="The New York Yacht Club Logo"></div>&nbsp&nbsp&nbsp&nbsp
+
+<div style="display:inline-block; max-width:228px; max-height:100px" class="center"><img src="/images/other/aemcorp.png" alt="AEM Corp Logo"></div>&nbsp&nbsp&nbsp&nbsp
+
+<hr>
+
+## Awards
+
+<!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="108" width="88"></a></div>-->
+
+<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/top-performer/top-performer--white.svg" alt="Top Performer on GigSalad" height="128" width="116"></a></div>
 
 <!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/five-star-talent/talent--white.svg" alt="Five-Star Singing Guitarist on GigSalad" height="128" width="128"></a></div>-->
 
@@ -47,9 +60,17 @@ You can fill out this form to reach me. Performance videos, photos, and a sortab
 <script type="text/javascript" src="https://cdn1.weddingwire.com/_js/wp-rated.js?v=4"></script>
 <script>wpShowRatedWAv3('977533','2019');</script>
 
-<div style="display:inline-block;" class="center"><a href="https://www.thebash.com/acoustic-band/grantswift" title="Responds quickly to client requests"><img src="https://www.thebash.com/images/badges/rapid-responder-badge-small.png" alt="Responds quickly to client requests" /></a></div>
+<!--<div style="display:inline-block;" class="center"><a href="https://www.thebash.com/acoustic-band/grantswift" title="Responds quickly to client requests"><img src="https://www.thebash.com/images/badges/rapid-responder-badge-small.png" alt="Responds quickly to client requests" /></a></div>-->
+
+<div style="display:inline-block;" class="center"><a href="http://www.thebash.com/acoustic-band/grantswift" title="5 Star Member" target="_top"><img src="https://www.thebash.com/images/mcp/tb-five-star-member.png" width="200" height="157" alt="5 Star Member"></a></div>
 
 <div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/read-reviews/read-reviews.svg" alt="Read My Reviews on GigSalad" height="80" width="280"></a></div>
+
+<!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="108" width="88"></a></div>-->
+
+<hr>
+
+<h2 id="information">Information</h2>
 
 Grant specializes in covers of classic R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for guitar and voice. His extensive repertoire (scroll down for a sortable sample list) contains everything from Stevie Wonder to Neil Young, Ella Fitzgerald to Ed Sheeran, not to mention his [original works.](https://smarturl.it/vzvcdd) Some loop pedal magic helps to fill out the sound for medium to large venues. Since no backing tracks are used, and everything is created live in the moment, no two performances are ever exactly the same!
 
