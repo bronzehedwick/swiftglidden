@@ -32,11 +32,11 @@ You can fill out this form to reach me. Performance videos, photos, and a sortab
 
 <div style="display:inline-block; max-width:299px; max-height:100px" class="center"><img src="/images/other/HY_Logo_black.svg" alt="Hudson Yards Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
-<div style="display:inline-block; max-width:192px; max-height:192px" class="center"><img src="/images/other/tony_186519.png" alt="TimeOut New York Logo"></div>&nbsp&nbsp&nbsp&nbsp
+<div style="display:inline-block; max-width:192px; max-height:192px" class="center"><img src="/images/other/tony_186519_black_edit.png" alt="TimeOut New York Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
-<div style="display:inline-block; max-width:192px; max-height:212px" class="center"><img src="/images/other/nyyclogo.jpg" alt="The New York Yacht Club Logo"></div>&nbsp&nbsp&nbsp&nbsp
+<div style="display:inline-block; max-width:192px; max-height:212px" class="center"><img src="/images/other/nyyclogotransparent.png" alt="The New York Yacht Club Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
-<div style="display:inline-block; max-width:228px; max-height:100px" class="center"><img src="/images/other/aemcorp.png" alt="AEM Corp Logo"></div>&nbsp&nbsp&nbsp&nbsp
+<div style="display:inline-block; max-width:228px; max-height:100px" class="center"><img src="/images/other/aemcorptransparent.png" alt="AEM Corp Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
 <hr>
 
