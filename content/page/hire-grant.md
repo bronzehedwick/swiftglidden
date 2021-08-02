@@ -72,9 +72,9 @@ You can fill out this form to reach me. Performance videos, photos, and a sortab
 
 <h2 id="information">Information</h2>
 
-Grant specializes in covers of classic R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for guitar and voice. His extensive repertoire (scroll down for a sortable sample list) contains everything from Stevie Wonder to Neil Young, Ella Fitzgerald to Ed Sheeran, not to mention his [original works.](https://smarturl.it/vzvcdd) Some loop pedal magic helps to fill out the sound for medium to large venues. Since no backing tracks are used, and everything is created live in the moment, no two performances are ever exactly the same!
+Grant specializes in R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for guitar and voice. His extensive repertoire contains everything from Stevie Wonder to Neil Young, Ella Fitzgerald to Ed Sheeran, not to mention his [original works.](https://smarturl.it/vzvcdd) Some loop pedal magic helps to fill out the sound for medium to large venues. Since no backing tracks are used, and everything is created live in the moment, no two performances are ever exactly the same.
 
-He is available in a variety of formats, most recently as a virtual performer with his top of the line home audio/video streaming setup. For in-person events he performs regularly in his classic one-man band format, but also leads duos and trios. He travels throughout the United States. His versatility has had him performing weddings, galas, and corporate events in venues as diverse as concert halls, restaurants, and steamboats.
+He is available in a variety of formats, including virtual performances. For in-person events he performs regularly in his classic one-man band format, but also leads duos and trios. He travels throughout the United States. His versatility has him performing weddings, galas, and corporate events in venues as diverse as concert halls, restaurants, and steamboats.
 
 His clients have included Audi North America, The New York Yacht Club, Time Out New York, and Hudson Yards.
 

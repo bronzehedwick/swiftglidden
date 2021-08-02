@@ -6,7 +6,7 @@ draft: false
 
 <h4>
   <center>
-Fill out this form to reach me. Performance videos, photos, and a sortable Song List are all below.
+You can fill out this form to reach me. Performance videos, photos, and a sortable Song List are all below.
   </center>
 </h4>
 
@@ -24,14 +24,33 @@ Fill out this form to reach me. Performance videos, photos, and a sortable Song 
   <button type="submit">Send</button>
 </form>
 
+<hr>
 
-<hr></hr>
+<h2 id="pastclients">Past Clients</h2>
 
-<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="128" width="108"></a></div>
+<div style="display:inline-block; max-width:249px; max-height:84px" class="center"><img src="/images/other/Audi_Rings_Medium_bl-RGB.png" alt="Audi Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
-<!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/top-performer/top-performer--white.svg" alt="Top Performer on GigSalad" height="128" width="116"></a></div>-->
+<div style="display:inline-block; max-width:299px; max-height:100px" class="center"><img src="/images/other/HY_Logo_black.png" alt="Hudson Yards Logo"></div>&nbsp&nbsp&nbsp&nbsp
+
+<div style="display:inline-block; max-width:192px; max-height:192px" class="center"><img src="/images/other/tony_186519_black_edit.png" alt="TimeOut New York Logo"></div>&nbsp&nbsp&nbsp&nbsp
+
+<div style="display:inline-block; max-width:192px; max-height:212px" class="center"><img src="/images/other/nyyclogotransparent.png" alt="The New York Yacht Club Logo"></div>&nbsp&nbsp&nbsp&nbsp
+
+<div style="display:inline-block; max-width:228px; max-height:100px" class="center"><img src="/images/other/aemcorptransparent.png" alt="AEM Corp Logo"></div>&nbsp&nbsp&nbsp&nbsp
+
+<hr>
+
+## Awards
+
+<!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="108" width="88"></a></div>-->
+
+<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/top-performer/top-performer--white.svg" alt="Top Performer on GigSalad" height="128" width="116"></a></div>
 
 <!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/five-star-talent/talent--white.svg" alt="Five-Star Singing Guitarist on GigSalad" height="128" width="128"></a></div>-->
+
+<div style="display:inline-block;" class="center"><a href="https://www.thumbtack.com/ny/brooklyn/bands-for-hire/grant-swift/service/256518532299646003">
+<img src="/images/other/2021-top-pro-badge.953b08f58e34e11b2533073317801195.png" alt="Thumbtack Top Pro" height="100" width="100">
+</a></div>
 
 <div id="wp-ratedWA" style="display:inline-block;" class="center">
     <a target="_blank" href="https://www.weddingwire.com/biz/grant-swift-glidden-brooklyn/7006221283a11992.html" title="WeddingWire Couples' Choice Award Winner 2019">
@@ -41,23 +60,31 @@ Fill out this form to reach me. Performance videos, photos, and a sortable Song 
 <script type="text/javascript" src="https://cdn1.weddingwire.com/_js/wp-rated.js?v=4"></script>
 <script>wpShowRatedWAv3('977533','2019');</script>
 
-<div style="display:inline-block;" class="center"><a href="https://www.thebash.com/acoustic-band/grantswift" title="Responds quickly to client requests"><img src="https://www.thebash.com/images/badges/rapid-responder-badge-small.png" alt="Responds quickly to client requests" /></a></div>
+<!--<div style="display:inline-block;" class="center"><a href="https://www.thebash.com/acoustic-band/grantswift" title="Responds quickly to client requests"><img src="https://www.thebash.com/images/badges/rapid-responder-badge-small.png" alt="Responds quickly to client requests" /></a></div>-->
 
-<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/read-reviews/read-reviews.svg" alt="Read My Reviews on GigSalad" height="100" width="300"></a></div>
+<div style="display:inline-block;" class="center"><a href="http://www.thebash.com/acoustic-band/grantswift" title="5 Star Member" target="_top"><img src="https://www.thebash.com/images/mcp/tb-five-star-member.png" width="200" height="157" alt="5 Star Member"></a></div>
 
-Grant specializes in covers of classic R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for guitar and voice. His extensive repertoire (scroll down for a sortable sample list) contains everything from Stevie Wonder to Neil Young, Ella Fitzgerald to Ed Sheeran, not to mention his [original works.](https://distrokid.com/hyperfollow/grantswift/fear-and-love-in-the-time-of-corona) Some loop pedal magic helps to fill out the sound for medium to large venues. Since no backing tracks are used, and everything is created live in the moment, no two performances are ever exactly the same!
+<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift"><img src="https://www.gigsalad.com/images/svg/standalone/promokit-links/read-reviews/read-reviews.svg" alt="Read My Reviews on GigSalad" height="80" width="280"></a></div>
 
-He is available in a variety of formats, most recently as a virtual performer with his top of the line home audio/video streaming setup. For in-person events he performs regularly in his classic one-man band format, but also leads duos and trios. He travels throughout the United States. His versatility has had him performing weddings, galas, and corporate events in venues as diverse as concert halls, restaurants, and steamboats.
+<!--<div style="display:inline-block;" class="center"><a href="https://www.gigsalad.com/grant_swift" target="_blank"><img src="https://www.gigsalad.com/profile/reviews-badge/149471/normal/white" alt="Reviews on GigSalad" height="108" width="88"></a></div>-->
+
+<hr>
+
+<h2 id="information">Information</h2>
+
+Grant specializes in R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for guitar and voice. His extensive repertoire contains everything from Stevie Wonder to Neil Young, Ella Fitzgerald to Ed Sheeran, not to mention his [original works.](https://smarturl.it/vzvcdd) Some loop pedal magic helps to fill out the sound for medium to large venues. Since no backing tracks are used, and everything is created live in the moment, no two performances are ever exactly the same.
+
+He is available in a variety of formats, including virtual performances. For in-person events he performs regularly in his classic one-man band format, but also leads duos and trios. He travels throughout the United States. His versatility has him performing weddings, galas, and corporate events in venues as diverse as concert halls, restaurants, and steamboats.
 
 His clients have included Audi North America, The New York Yacht Club, Time Out New York, and Hudson Yards.
 
 For booking, please drop him a request through the form above.
 
-Videos, photos, audio, and song list below.
+Sample Videos, Audio, Photos, and a Song List are below.
 
 <hr></hr>
 
-<h2>Videos</h2>
+<h2 id="videos">Videos</h2>
 
 {{< youtube uaT1_09p1iU >}}
 ---
