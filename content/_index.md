@@ -2,7 +2,7 @@
 
 {{< spotify >}}
 
-My second single, "What I'm Thinking" off my forthcoming album *First Elephant* is available now on all digital music services. Follow <a href="https://distrokid.com/hyperfollow/grantswift/what-im-thinking" target="_blank">this link</a> to your music service of choice.
+My album *First Elephant* is available now on all digital music services. Follow <a href="https://distrokid.com/hyperfollow/grantswift/first-elephant" target="_blank">this link</a> to your music service of choice.
 
 <hr>
 
