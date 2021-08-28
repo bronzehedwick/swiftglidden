@@ -6,21 +6,34 @@ draft: false
 
 <h4>
   <center>
-You can fill out this form to reach me. Performance videos, photos, and a sortable Song List are all below.
+Performance videos, photos, and a sortable Song List are all below.
   </center>
 </h4>
+<h5>
+  <center>
+Please use this form to submit a booking request.<br>
+
+I cannot confirm your event date until a deposit has been paid.<br>
+
+Thank you for being in touch!
+  </center>
+</h5>  
 
 <form
-  action="https://formspree.io/xjvpbzrz"
+  action="https://formspree.io/f/mayapyja"
   method="POST"
-  <label for="email">Email</label>
-  <input name="email" placeholder="me@example.com" type="email" required>
-  <label for="message">Message</label>
-  <textarea name="message" placeholder="Describe your event or request." required></textarea>
   <label for="name">Name</label>
   <input type="text" name="name" placeholder="Jane Doe" required>
-  <label for="phone">Phone (optional)</label>
-  <input type="tel" name="phone" placeholder="(555) 555-555">
+  <label for="email">Email</label>
+  <input type="email" name="email" placeholder="me@example.com" required>
+  <label for="phone">Phone</label>
+  <input type="tel" name="phone" placeholder="+1 (000) 000-0000" required>
+  <label for="date">Event Date</label>
+  <input type="date" name="date" placeholder="MM/DD/YYYY" required>
+  <label for="address">Event Address</label>
+  <input type="text" name="address" placeholder="123 Main St, New York, NY 10001">
+  <label for="message">Message</label>
+  <textarea name="message" placeholder="Describe your event, including start and end time" required></textarea>
   <button type="submit">Send</button>
 </form>
 
