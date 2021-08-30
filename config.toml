@@ -52,10 +52,10 @@ unsafe= true
   url = "/page/hire-grant/"
 
 [[menu.main]]
-  name = "Original Works"
+  name = "Original Music"
   weight = -95
-  identifier = "original-works"
-  url = "https://smarturl.it/vzvcdd"
+  identifier = "original-music"
+  url = "https://linktr.ee/grantswift"
 
 [[menu.main]]
   name = "Mailing List"

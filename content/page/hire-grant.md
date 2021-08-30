@@ -43,6 +43,8 @@ Thank you for being in touch!
 
 <div style="display:inline-block; max-width:249px; max-height:84px" class="center"><img src="/images/other/Audi_Rings_Medium_bl-RGB.png" alt="Audi Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
+<div style="display:inline-block; max-width:290px; max-height:81px" class="center"><img src="/images/other/Dior logo.png" alt="Dior Logo"></div>&nbsp&nbsp&nbsp&nbsp
+
 <div style="display:inline-block; max-width:299px; max-height:100px" class="center"><img src="/images/other/HY_Logo_black.png" alt="Hudson Yards Logo"></div>&nbsp&nbsp&nbsp&nbsp
 
 <div style="display:inline-block; max-width:192px; max-height:192px" class="center"><img src="/images/other/tony_186519_black_edit.png" alt="TimeOut New York Logo"></div>&nbsp&nbsp&nbsp&nbsp

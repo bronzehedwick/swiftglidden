@@ -1,5 +1,5 @@
 ---
-title: "Bio and EPK"
+title: "Bio and Press Kit"
 date: 2017-12-09T20:11:00-05:00
 draft: false
 ---
