@@ -11,9 +11,9 @@ Performance videos, photos, and a sortable Song List are all below.
 </h4>
 <h5>
   <center>
-Please use this form to submit a booking request.<br>
+Please use this form to get in touch or submit a quote/booking request.<br>
 
-I cannot confirm your event date until a deposit has been paid.<br>
+Please note I cannot confirm your event date until a deposit has been paid.<br>
 
 Thank you for being in touch!
   </center>
