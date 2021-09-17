@@ -4,6 +4,10 @@
 
 My album *First Elephant* is available now on all digital music services. Follow <a href="https://distrokid.com/hyperfollow/grantswift/first-elephant" target="_blank">this link</a> to your music service of choice.
 
+New Music video Here:
+
+{{< youtube HAOigA3tLrw >}}
+
 <hr>
 
 In March of 2020, I contracted SARS-CoV-2 and tested positive for COVID-19 after developing symptoms.
@@ -18,10 +22,10 @@ You can hire me for private or public events [HERE](/page/hire-grant/)
 
 {{< youtube 6t7ywuOk9Ng >}}
 
-Want to help me create my next album of songs? You can donate by clicking the button below.
+Want to help me create my next album? You can donate through Venmo, Cash App, or PayPal below
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="XC5GPL6DGUEHC" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="display: block; margin: 0 auto; border: 0px none ; padding: 0px; width: 100px; height: 100px;"/>
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[Donate with Venmo](https://venmo.com/code?user_id=1684340807303168801&created=1627935115)
+
+[Donate with Cash App](https://cash.app/$GrantSwiftMusic)
+
+[Donate with PayPal, Debit Card or Credit Card](https://www.paypal.com/donate?hosted_button_id=XPNQY5P48UK54)

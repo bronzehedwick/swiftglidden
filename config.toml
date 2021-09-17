@@ -13,11 +13,11 @@ enableRobotsTXT = true
 [markup.goldmark.renderer]
 unsafe= true
 
-#[[menu.main]]
-  #name = "Home"
-  #weight = -120
-  #identifier = "home"
-  #url = "/"
+[[menu.main]]
+  name = "Home"
+  weight = -120
+  identifier = "home"
+  url = "/"
 
 [[menu.main]]
   name = "Shows"
@@ -46,16 +46,16 @@ unsafe= true
   url = "/page/bio/"
 
 [[menu.main]]
-  name = "Hire Grant"
+  name = "Music"
   weight = -100
-  identifier = "hire-grant"
-  url = "/page/hire-grant/"
+  identifier = "music"
+  url = "/page/music/"
 
 [[menu.main]]
-  name = "Original Music"
+  name = "Hire Grant"
   weight = -95
-  identifier = "original-music"
-  url = "https://linktr.ee/grantswift"
+  identifier = "hire-grant"
+  url = "/page/hire-grant/"
 
 [[menu.main]]
   name = "Mailing List"
@@ -63,11 +63,11 @@ unsafe= true
   identifier = "sign-up"
   url = "/page/sign-up/"
 
-#[[menu.main]]
-  #name = "Contact"
-  #weight = -85
-  #identifier = "contact"
-  #url = "/page/contact/"
+[[menu.main]]
+  name = "Contact"
+  weight = -85
+  identifier = "contact"
+  url = "/page/contact/"
 
 [sitemap]
   changefreq = "monthly"
