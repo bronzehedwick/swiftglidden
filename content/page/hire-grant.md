@@ -87,7 +87,7 @@ Thank you for being in touch!
 
 <h2 id="information">Information</h2>
 
-Grant specializes in R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for guitar and voice. His extensive repertoire contains everything from Stevie Wonder to Neil Young, Ella Fitzgerald to Ed Sheeran, not to mention his [original works.](https://smarturl.it/vzvcdd) Some loop pedal magic helps to fill out the sound for medium to large venues. Since no backing tracks are used, and everything is created live in the moment, no two performances are ever exactly the same.
+Grant Swift is one of the most sought after private event musicians in the Northeast United States. He specializes in R&B, Rock, Soul, Folk, Pop and Jazz, uniquely arranged for guitar and voice. His extensive repertoire contains everything from Stevie Wonder to Neil Young, Ella Fitzgerald to Ed Sheeran, not to mention his [original works.](https://linktr.ee/grantswift) Some loop pedal magic helps to fill out the sound for medium to large venues. Since no backing tracks are used, and everything is created live in the moment, no two performances are ever exactly the same.
 
 He is available in a variety of formats, including virtual performances. For in-person events he performs regularly in his classic one-man band format, but also leads duos and trios. He travels throughout the United States. His versatility has him performing weddings, galas, and corporate events in venues as diverse as concert halls, restaurants, and steamboats.
 
